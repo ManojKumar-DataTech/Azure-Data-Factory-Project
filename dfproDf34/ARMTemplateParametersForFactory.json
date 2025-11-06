@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "dfproDf34"
+		},
+		"ls_Db_password": {
+			"value": ""
+		},
+		"ls_datalake_accountKey": {
+			"value": ""
+		},
+		"ls_Db_properties_typeProperties_server": {
+			"value": "dfserver34.database.windows.net"
+		},
+		"ls_Db_properties_typeProperties_database": {
+			"value": "DfDb"
+		},
+		"ls_Db_properties_typeProperties_userName": {
+			"value": "manojadmin"
+		},
+		"ls_datalake_properties_typeProperties_url": {
+			"value": "https://dfprostorage34.dfs.core.windows.net/"
+		},
+		"ls_resapi_properties_typeProperties_url": {
+			"value": " https://pokeapi.co/api/v2/pokemon"
+		}
+	}
+}
