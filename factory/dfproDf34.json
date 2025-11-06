@@ -1,0 +1,9 @@
+{
+	"name": "dfproDf34",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f9ee8734-467c-4c50-8e31-06c250f67391",
+		"tenantId": "cb50a0b1-c560-4f10-9fb9-71187e1ebbee"
+	}
+}
